@@ -1,0 +1,2 @@
+# inventory-mgmt
+stock-mgmt
